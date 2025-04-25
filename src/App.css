@@ -1,0 +1,41 @@
+.container{
+  margin-left:400px;
+  padding: 2rem;
+  text-align: center;
+  background: rgb(237, 242, 248);
+  border: 6px solid;
+  border-color: rgb(19, 129, 202);
+  border-radius: 10px;
+  max-width: 500px;
+  color:rgb(19, 129, 202) ;
+  font-weight: bold;
+
+}
+
+input{
+  padding: 5px;
+  min-width: 100%;
+}
+.box{
+  display: flex;
+  margin-top: 10px;
+}
+
+button{
+  background:rgb(19, 129, 202) ;
+  color: white;
+  margin-top: 10px;
+}
+
+select{
+  padding: 6px;
+  min-width: 100%;
+}
+
+.box div{
+  margin: 0 5px;
+}
+.box select{
+  min-width: 100%;
+  padding: 6px;
+}
